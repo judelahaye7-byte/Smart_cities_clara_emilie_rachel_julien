@@ -1,4 +1,3 @@
 numpy 
 pandas 
 matplotlib
-git+https://github.com/cghiaus/dm4bem.git
